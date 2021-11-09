@@ -5,6 +5,12 @@ body{
     min-height: 100vh;
     font-family: sans-serif;
 }
+header{
+    height: max-content;
+    width: 100%;
+    background-color: rgb(118, 99, 240);
+
+}
 header ul{
     list-style: none;
     display: flex;
@@ -22,7 +28,6 @@ header ul li{
     font-weight: bold;
 }
 header ul li:hover{
-    background-color: rgb(118, 99, 240);
-    color: black;
+    background-color: rgb(93, 78, 189);
     transition: 0.9s;
 }
