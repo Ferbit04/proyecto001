@@ -1,6 +1,6 @@
 const menu = document.getElementsByClassName('menu')[0];
 const menuLink = (a)=>{
-    window.location.href=`${a}`
+    window.location.href= a
 }
 
 menu.addEventListener('click',(e)=>{
