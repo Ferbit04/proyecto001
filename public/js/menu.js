@@ -23,5 +23,4 @@ menu.addEventListener('click',(e)=>{
                 menuLink('/')
                 break;
         }
-        console.log(rutas)
 }})
