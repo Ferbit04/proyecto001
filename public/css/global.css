@@ -9,10 +9,11 @@ header{
     height: max-content;
     width: 100%;
     background-color: rgb(118, 99, 240);
-
+}
+ul{
+    list-style: none;
 }
 header ul{
-    list-style: none;
     display: flex;
     margin: 0;
     margin-left: auto;
